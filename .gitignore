@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]   
+*.pyo
+*.pyd
+*.so
+*.pth
+*.pkl
+reports/*
+*.csv
+*.zip
+*.tar.gz
+*.ckpt
+experiments/darts_logs/*
+experiments/mlruns/*
+experiments/your_mlflow_uri/*
