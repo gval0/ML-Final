@@ -13,3 +13,4 @@ reports/*
 experiments/darts_logs/*
 experiments/mlruns/*
 experiments/your_mlflow_uri/*
+*.json
